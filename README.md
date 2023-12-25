@@ -2,7 +2,7 @@
 
 ## Description
 
-This project includes code for analyzing mental health data. The data includes information about different mental health disorders across various countries and years.
+This project includes code for analyzing mental health data. Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. The data includes information about different mental health disorders across various countries and years. Python comes with a huge number of inbuilt libraries. Many of the libraries are for Artificial Intelligence, Machine Learning, and Deep Learning.
 
 ## Dependencies
 
