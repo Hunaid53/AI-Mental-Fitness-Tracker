@@ -1,4 +1,4 @@
-# AI-Mental-Fitness-Tracker
+# Mental-Fitness-Tracker
 
 ## Description
 
